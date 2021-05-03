@@ -1,0 +1,27 @@
+{
+  "name": "p2plending",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write .",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashmishra0207/p2pLending-Dapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashmishra0207/p2pLending-Dapp/issues"
+  },
+  "homepage": "https://github.com/yashmishra0207/p2pLending-Dapp#readme",
+  "devDependencies": {
+    "husky": "^6.0.0"
+  },
+  "dependencies": {
+    "prettier": "^2.2.1"
+  }
+}

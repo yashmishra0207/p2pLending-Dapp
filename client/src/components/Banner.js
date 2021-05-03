@@ -1,14 +1,16 @@
-import { Card, CardContent, CardHeader, Typography } from '@material-ui/core'
-import React from 'react'
+import { Card, CardContent, CardHeader, Typography } from "@material-ui/core";
+import React from "react";
 
 const Banner = (props) => {
-  console.log(props)
+  console.log(props);
   return (
     <Card>
-      <CardHeader><Typography variant="h4">{props.heading}</Typography></CardHeader>
-      <CardContent>{props.content}</CardContent>
+      <CardContent>
+        <Typography variant="h4">{props.heading}</Typography>
+        {props.content}
+      </CardContent>
     </Card>
-  )
-}
+  );
+};
 
-export default Banner
+export default Banner;

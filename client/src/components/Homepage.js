@@ -9,7 +9,7 @@ const Homepage = () => {
     <>
       <CustomCorousel />
       <ApplyAndInvest />
-      <Banner heading="What is Peer to Peer Lending?" content={ <AboutP2P /> }/>
+      <Banner heading="What is Peer to Peer Lending?" content={<AboutP2P />} />
     </>
   );
 };

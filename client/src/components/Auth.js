@@ -59,7 +59,9 @@ const Auth = () => {
             <Route path="/auth/signup" component={Signup} />
             <Route path="/auth/login" component={Login} />
           </Switch>
-          <Link to="/" item xs={12}>Back to Home</Link>
+          <Link to="/" item xs={12}>
+            Back to Home
+          </Link>
         </div>
       </Grid>
     </Grid>

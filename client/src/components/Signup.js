@@ -73,7 +73,7 @@ const Signup = () => {
             </Link> */}
           </Grid>
           <Grid item xs={12} style={{ textAlign: "center" }}>
-            <Link to='/auth/login' variant="body2">
+            <Link to="/auth/login" variant="body2">
               <p>{"Already have account? Log In"}</p>
             </Link>
           </Grid>

@@ -76,7 +76,7 @@ const ApplyAndInvestCard = (props) => {
             {props.heading}
           </Typography>
           <Typography className={classes.pos}>{props.detail}</Typography>
-          <Link to={props.buttonUrl} style={{textDecoration: 'none'}}>
+          <Link to={props.buttonUrl} style={{ textDecoration: "none" }}>
             <Button
               className={classes.button}
               variant="contained"
