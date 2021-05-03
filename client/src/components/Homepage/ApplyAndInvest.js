@@ -1,7 +1,8 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import ApplyAndInvestCard from "./ApplyAndInvestCard";
-import LoanIcon from "../resources/loan.svg";
+import LoanIcon from "../../resources/loan.svg";
+import ReturnsIcon from "../../resources/returns.svg";
 
 const useStyles = makeStyles({
   applyInvestContainer: {
@@ -29,7 +30,7 @@ const ApplyAndInvest = () => {
       />
       <ApplyAndInvestCard
         color="hotpink"
-        icon={LoanIcon}
+        icon={ReturnsIcon}
         heading="High Returns for Investors"
         detail="Earn up to 30 % returns"
         buttonUrl="/invest"

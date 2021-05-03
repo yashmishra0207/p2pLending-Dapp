@@ -1,21 +1,25 @@
 import { makeStyles } from "@material-ui/core";
 import React from "react";
-import bannerImage from "../resources/loan.svg";
+import bannerImage from "../../resources/what_is_p2pLending.png";
 
 const useStyles = makeStyles((theme) => ({
   root: {
     display: "flex",
-    flexWrap: "wrap",
     [theme.breakpoints.down("sm")]: {
       flexDirection: "column",
     },
   },
   imgContainer: {
-    width: "200px",
+    width: "400px",
     height: "200px",
-    backgroundSize: "cover",
+    border: "20px solid transparent",
+    backgroundSize: "contain",
     backgroundRepeat: "no-repeat",
     backgroundPosition: "center",
+    [theme.breakpoints.down("sm")]: {
+      width: "100%",
+      height: "200px",
+    },
   },
 }));
 
@@ -26,9 +30,9 @@ const AboutP2P = () => {
     <div className={classes.root}>
       <div
         className={classes.imgContainer}
-        style={{ background: `url(${bannerImage})` }}
+        style={{ backgroundImage: `url(${bannerImage})` }}
       ></div>
-      <div>
+      <div style={{ flex: 1 }}>
         <p>
           Peer to Peer lending, also known as P2P Lending, is a financial
           innovation which connects verified borrowers seeking unsecured

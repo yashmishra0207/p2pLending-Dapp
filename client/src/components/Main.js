@@ -2,7 +2,7 @@ import React from "react";
 import { Route, Switch } from "react-router";
 import App from "../App";
 import CustomNavbar from "./CustomNavbar";
-import Homepage from "./Homepage";
+import Homepage from "./Homepage/Homepage";
 
 const Main = () => {
   return (

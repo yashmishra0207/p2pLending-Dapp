@@ -13,7 +13,7 @@ const useStyles = makeStyles((theme) => ({
   root: {
     display: "flex",
     flexGrow: 1,
-    backgroundColor: "white",
+    backgroundColor: "rgba(255, 255, 255, 1)",
   },
   menuButton: {
     marginRight: theme.spacing(0),
@@ -49,7 +49,7 @@ const CustomNavbar = () => {
     <>
       <CssBaseline />
       <AppBar
-        position=""
+        position="fixed"
         color="default"
         elevation={0}
         className={classes.root}
@@ -78,6 +78,7 @@ const CustomNavbar = () => {
           </Link>
         </Toolbar>
       </AppBar>
+      <Toolbar style={{ width: "100%", height: "65px" }} />
     </>
   );
 };
