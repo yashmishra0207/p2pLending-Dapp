@@ -3,10 +3,8 @@ import { makeStyles } from "@material-ui/core/styles";
 import AppBar from "@material-ui/core/AppBar";
 import Toolbar from "@material-ui/core/Toolbar";
 import Typography from "@material-ui/core/Typography";
-import Button from "@material-ui/core/Button";
 import IconButton from "@material-ui/core/IconButton";
 import MenuIcon from "../resources/grow-up.svg";
-import { Link } from "react-router-dom";
 import { CssBaseline } from "@material-ui/core";
 
 const useStyles = makeStyles((theme) => ({
@@ -29,6 +27,7 @@ const useStyles = makeStyles((theme) => ({
     background: "linear-gradient(to right, dodgerblue, hotpink)",
     WebkitBackgroundClip: "text",
     WebkitTextFillColor: "transparent",
+    margin: "auto 0",
     // '&:hover': {
     //   background: "linear-gradient(to right, dodgerblue, hotpink)",
     //   WebkitBackgroundClip: "none",
@@ -55,19 +54,27 @@ const CustomNavbar = () => {
         className={classes.root}
       >
         <Toolbar className={classes.root}>
-          <IconButton
-            edge="start"
-            className={classes.menuButton}
-            color="inherit"
-            aria-label="menu"
-            style={{ backgroundColor: "transparent" }}
+          <div
+            style={{ display: "flex", margin: "auto", width: "fit-content" }}
           >
-            <img src={MenuIcon} className={classes.menuIcon} />
-          </IconButton>
-          <Typography variant="h6" className={classes.title}>
-            Grow
-          </Typography>
-          <Link to="/auth/login" className={classes.link}>
+            <IconButton
+              edge="start"
+              className={classes.menuButton}
+              color="inherit"
+              aria-label="menu"
+              style={{ backgroundColor: "transparent" }}
+            >
+              <img
+                alt="company logo"
+                src={MenuIcon}
+                className={classes.menuIcon}
+              />
+            </IconButton>
+            <Typography variant="h6" className={classes.title}>
+              Grow
+            </Typography>
+          </div>
+          {/* <Link to="/auth/login" className={classes.link}>
             <Button
               variant="outlined"
               color="primary"
@@ -75,7 +82,7 @@ const CustomNavbar = () => {
             >
               Get Started
             </Button>
-          </Link>
+          </Link> */}
         </Toolbar>
       </AppBar>
       <Toolbar style={{ width: "100%", height: "65px" }} />

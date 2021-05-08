@@ -3,7 +3,14 @@ import Blockchain from "../resources/blockchain.svg";
 
 const CustomHr = () => {
   return (
-    <div style={{ display: "flex", alignItems: "center", width: "100%" }}>
+    <div
+      style={{
+        display: "flex",
+        alignItems: "center",
+        width: "100%",
+        marginBottom: "10px",
+      }}
+    >
       <hr
         style={{
           width: "150px",

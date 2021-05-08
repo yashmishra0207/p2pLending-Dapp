@@ -22,7 +22,7 @@ const ApplyAndInvest = () => {
         color="dodgerblue"
         icon={LoanIcon}
         heading="Personal Loan (P2P Loan)"
-        detail="at Interest Rates Starting from 12 %"
+        detail="at Interest Rates Starting from 12%"
         buttonUrl="/applyloan"
         buttonText="Apply Now"
         countDetail="Total Loan Amount Applied by Borrowers:"
@@ -32,10 +32,10 @@ const ApplyAndInvest = () => {
         color="hotpink"
         icon={ReturnsIcon}
         heading="High Returns for Investors"
-        detail="Earn up to 30 % returns"
+        detail="Earn up to 30% returns"
         buttonUrl="/invest"
         buttonText="Invest Now"
-        countDetail="Total Investment Commitment from Investors:"
+        countDetail="Total Commitment from Investors:"
         count="₹ 1,67,69,40,988.80"
       />
     </div>

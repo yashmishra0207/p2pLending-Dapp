@@ -7,7 +7,7 @@ import StepContent from "@material-ui/core/StepContent";
 import Button from "@material-ui/core/Button";
 import Paper from "@material-ui/core/Paper";
 import Typography from "@material-ui/core/Typography";
-import { Phone } from "@material-ui/icons";
+import { Link } from "@material-ui/icons";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -23,12 +23,28 @@ const useStyles = makeStyles((theme) => ({
   resetContainer: {
     padding: theme.spacing(3),
   },
-  step: {
-    color: "lightgreen !important",
+  stepIcon: {
+    width: "15px",
+    height: "15px",
   },
 }));
 
 const CustomStepper = (props) => {
+  const useStepStyles = makeStyles({
+    active: {
+      color: `${props.color} !important`,
+      fontWeight: "bold !important",
+    },
+    disabled: {
+      color: `${props.color} !important`,
+      // opacity: '0.6',
+    },
+    completed: {
+      color: `${props.color} !important`,
+    },
+  });
+  const stepStyles = useStepStyles();
+
   const classes = useStyles();
   const [activeStep, setActiveStep] = React.useState(0);
   const steps = props.getSteps();
@@ -52,14 +68,19 @@ const CustomStepper = (props) => {
         {steps.map((label, index) => (
           <Step key={label}>
             <StepLabel
-              // icon={<Phone />}
+              // icon={<Link />}
               StepIconProps={{
                 classes: {
-                  root: classes.step,
-                  completed: classes.step,
-                  active: classes.active,
-                  disabled: classes.disabled,
+                  // root: classes.step,
+                  completed: stepStyles.active,
+                  active: stepStyles.active,
+                  disabled: stepStyles.disabled,
                 },
+              }}
+              classes={{
+                completed: stepStyles.completed,
+                active: stepStyles.active,
+                disabled: stepStyles.disabled,
               }}
             >
               {label}

@@ -57,7 +57,7 @@ const Auth = () => {
           </Avatar>
           <Switch>
             <Route path="/auth/signup" component={Signup} />
-            <Route path="/auth/login" component={Login} />
+            <Route path="/auth" component={Login} />
           </Switch>
           <Link to="/" item xs={12}>
             Back to Home
