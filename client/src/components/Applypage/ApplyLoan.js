@@ -69,8 +69,8 @@ const useStyles = makeStyles((theme) => ({
   },
   coupleHighFive: {
     zIndex: "0",
-    width: "50%",
-    left: "calc((100vw - 50%) / 2)",
+    width: "490px",
+    left: "calc(1024px / 2 - 245px)",
     top: "-2.5rem",
     position: "relative",
     marginBottom: "3rem",
