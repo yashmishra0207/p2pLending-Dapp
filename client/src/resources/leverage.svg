@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="105px" viewBox="0 0 100 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon - Leverage Your Crypto</title>
+    <defs>
+        <linearGradient x1="91.0704968%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#382BC5" offset="0%"></stop>
+            <stop stop-color="#FF3CAC" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="50" cy="50" r="50"></circle>
+        <linearGradient x1="-40.9129792%" y1="63.2128291%" x2="93.325309%" y2="39.8157805%" id="linearGradient-4">
+            <stop stop-color="#4F1DFF" offset="0%"></stop>
+            <stop stop-color="#B980FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M4.23483471e-12,19.9850704 C4.23483471e-12,31.0228169 8.88503497,39.9704225 19.8453147,39.9704225 L19.8453147,39.9704225 C30.8058741,39.9704225 39.6909091,31.0228169 39.6909091,19.9850704 L39.6909091,19.9850704 C39.6909091,8.94760563 30.8058741,3.34310357e-12 19.8453147,3.34310357e-12 L19.8453147,3.34310357e-12 C8.88503497,3.34310357e-12 4.23483471e-12,8.94760563 4.23483471e-12,19.9850704" id="path-5"></path>
+        <filter x="-3.8%" y="-3.8%" width="115.1%" height="107.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="3" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="12.9653057%" y1="54.9553419%" x2="88.6725004%" y2="49.9999572%" id="linearGradient-7">
+            <stop stop-color="#DF84FF" offset="0%"></stop>
+            <stop stop-color="#FFB7FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M11,7.5 C11,9.43319559 9.43122847,11 7.49919633,11 C5.56555683,11 4,9.43319559 4,7.5 C4,5.56841139 5.56555683,4 7.49919633,4 C9.43122847,4 11,5.56841139 11,7.5" id="path-8"></path>
+        <filter x="-14.3%" y="-14.3%" width="157.1%" height="128.6%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="90.4980927%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#382BC5" offset="0%"></stop>
+            <stop stop-color="#FF3CAC" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,19.9850704 C0,31.0228169 8.88503497,39.9704225 19.8453147,39.9704225 L19.8453147,39.9704225 C30.8058741,39.9704225 39.6909091,31.0228169 39.6909091,19.9850704 L39.6909091,19.9850704 C39.6909091,8.94760563 30.8058741,-1.73895387e-09 19.8453147,-1.73895387e-09 L19.8453147,-1.73895387e-09 C8.88503497,-1.73895387e-09 0,8.94760563 0,19.9850704" id="path-11"></path>
+        <filter x="-2.5%" y="-2.5%" width="110.1%" height="110.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M19.9999084,7 L20.3067706,7.00355041 C27.3448576,7.16657021 33,12.922814 33,19.9999084 L33,19.9999084 L32.9964496,20.3067706 C32.8334297,27.3448576 27.0771834,33 19.9999084,33 L19.9999084,33 L19.6930539,32.9964496 C12.6551424,32.8334297 7,27.0771834 7,19.9999084 C7,12.8202474 12.8202474,7 19.9999084,7 L19.9999084,7 Z M19.9999295,10 C14.4771134,10 10,14.4771134 10,19.9999295 C10,25.4292772 14.326633,29.847933 19.7200263,29.9961582 L19.9999295,30 C25.4292772,30 29.847933,25.673367 29.9961582,20.2798398 L30,19.9999295 C30,14.5707204 25.673367,10.152067 20.2798398,10.0038418 L19.9999295,10 Z" id="path-13"></path>
+        <filter x="-1.9%" y="-1.9%" width="107.7%" height="107.7%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M20,35.4850704 C20,46.5228169 28.885035,55.4704225 39.8453147,55.4704225 L39.8453147,55.4704225 C50.8058741,55.4704225 59.6909091,46.5228169 59.6909091,35.4850704 L59.6909091,35.4850704 C59.6909091,24.4476056 50.8058741,15.5 39.8453147,15.5 L39.8453147,15.5 C28.885035,15.5 20,24.4476056 20,35.4850704" id="path-15"></path>
+        <filter x="-2.5%" y="-2.5%" width="110.1%" height="110.0%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M0,19.9850704 C0,31.0228169 8.88503497,39.9704225 19.8453147,39.9704225 L19.8453147,39.9704225 C30.8058741,39.9704225 39.6909091,31.0228169 39.6909091,19.9850704 L39.6909091,19.9850704 C39.6909091,8.94760563 30.8058741,-1.73895387e-09 19.8453147,-1.73895387e-09 L19.8453147,-1.73895387e-09 C8.88503497,-1.73895387e-09 0,8.94760563 0,19.9850704" id="path-17"></path>
+        <filter x="-2.5%" y="-2.5%" width="110.1%" height="110.0%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M19.9999084,7 L20.3067706,7.00355041 C27.3448576,7.16657021 33,12.922814 33,19.9999084 L33,19.9999084 L32.9964496,20.3067706 C32.8334297,27.3448576 27.0771834,33 19.9999084,33 L19.9999084,33 L19.6930539,32.9964496 C12.6551424,32.8334297 7,27.0771834 7,19.9999084 C7,12.8202474 12.8202474,7 19.9999084,7 L19.9999084,7 Z M19.9999295,10 C14.4771134,10 10,14.4771134 10,19.9999295 C10,25.4292772 14.326633,29.847933 19.7200263,29.9961582 L19.9999295,30 C25.4292772,30 29.847933,25.673367 29.9961582,20.2798398 L30,19.9999295 C30,14.5707204 25.673367,10.152067 20.2798398,10.0038418 L19.9999295,10 Z" id="path-19"></path>
+        <filter x="-1.9%" y="-1.9%" width="107.7%" height="107.7%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Celsius-Key-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Celsius---Borrow---Page---Desktop---1" transform="translate(-1048.000000, -7655.000000)">
+            <g id="Module" transform="translate(0.000000, 6860.000000)">
+                <g id="Points" transform="translate(178.000000, 770.000000)">
+                    <g id="Item" transform="translate(752.000000, 0.000000)">
+                        <g id="Icon---Leverage-Your-Crypto" transform="translate(168.000000, 77.500000) rotate(-180.000000) translate(-168.000000, -77.500000) translate(118.000000, 25.000000)">
+                            <circle id="Mask" fill="url(#linearGradient-1)" transform="translate(50.000000, 50.000000) rotate(-180.000000) translate(-50.000000, -50.000000) " cx="50" cy="50" r="50"></circle>
+                            <g id="Background" transform="translate(50.000000, 50.000000) rotate(-180.000000) translate(-50.000000, -50.000000) translate(0.000000, 0.000000)">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <use id="Mask-Copy-33" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                                <path d="M0,43.9 L76.5,43.9 C80.6421356,43.9 84,47.2578644 84,51.4 L84,88.9 C84,93.0421356 80.6421356,96.4 76.5,96.4 L0,96.4 L0,96.4 L0,43.9 Z" id="Rectangle" fill="url(#linearGradient-4)" mask="url(#mask-3)"></path>
+                                <g id="Wallet" mask="url(#mask-3)">
+                                    <g transform="translate(-7.000000, 28.100000)">
+                                        <g id="Coin" transform="translate(19.000000, 0.400000)">
+                                            <g id="Fill-1">
+                                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                                <use fill="#FFE4FF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                            </g>
+                                            <path d="M19.9999084,7 L20.3067706,7.00355041 C27.3448576,7.16657021 33,12.922814 33,19.9999084 L33,19.9999084 L32.9964496,20.3067706 C32.8334297,27.3448576 27.0771834,33 19.9999084,33 L19.9999084,33 L19.6930539,32.9964496 C12.6551424,32.8334297 7,27.0771834 7,19.9999084 C7,12.8202474 12.8202474,7 19.9999084,7 L19.9999084,7 Z M19.9999295,10 C14.4771134,10 10,14.4771134 10,19.9999295 C10,25.4292772 14.326633,29.847933 19.7200263,29.9961582 L19.9999295,30 C25.4292772,30 29.847933,25.673367 29.9961582,20.2798398 L30,19.9999295 C30,14.5707204 25.673367,10.152067 20.2798398,10.0038418 L19.9999295,10 Z" id="Combined-Shape-Copy-28" fill="url(#linearGradient-1)"></path>
+                                        </g>
+                                        <g id="Wallet" transform="translate(0.000000, 22.500000)">
+                                            <rect id="Rectangle" fill="url(#linearGradient-7)" x="0" y="0" width="84" height="52" rx="5"></rect>
+                                        </g>
+                                        <g id="Clasp" transform="translate(59.150000, 41.050000)">
+                                            <path d="M2.35,0.05 L24.85,0.05 L24.85,0.05 L24.85,15.05 L2.35,15.05 C1.2454305,15.05 0.35,14.1545695 0.35,13.05 L0.35,2.05 C0.35,0.9454305 1.2454305,0.05 2.35,0.05 Z" id="Rectangle" fill="#FFFFFF" opacity="0.200000003"></path>
+                                            <g id="Fill-19">
+                                                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                                                <use fill="#FFE4FF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="Coin" mask="url(#mask-3)">
+                                    <g transform="translate(30.000000, 87.500000) rotate(-180.000000) translate(-30.000000, -87.500000) translate(-0.000000, 59.500000)">
+                                        <g id="Fill-1" transform="translate(19.845455, 19.985211) rotate(-180.000000) translate(-19.845455, -19.985211) ">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                                            <use fill="url(#linearGradient-10)" fill-rule="evenodd" xlink:href="#path-11"></use>
+                                        </g>
+                                        <g id="Combined-Shape-Copy-33" transform="translate(20.000000, 20.000000) rotate(-180.000000) translate(-20.000000, -20.000000) ">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                                            <use fill="#FFE4FF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                                        </g>
+                                        <g id="Fill-1" transform="translate(39.845455, 35.485211) rotate(-180.000000) translate(-39.845455, -35.485211) " fill-opacity="1">
+                                            <use fill="black" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="Coin" mask="url(#mask-3)">
+                                    <g transform="translate(20.000000, 80.000000) rotate(-180.000000) translate(-20.000000, -80.000000) translate(-0.000000, 60.000000)">
+                                        <g id="Fill-1-Copy-6" transform="translate(19.845455, 19.985211) rotate(-180.000000) translate(-19.845455, -19.985211) ">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                                            <use fill="url(#linearGradient-10)" fill-rule="evenodd" xlink:href="#path-17"></use>
+                                        </g>
+                                        <g id="Combined-Shape-Copy-34" transform="translate(20.000000, 20.000000) rotate(-180.000000) translate(-20.000000, -20.000000) ">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                                            <use fill="#FFE4FF" fill-rule="evenodd" xlink:href="#path-19"></use>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Coin" transform="translate(15.000000, 65.000000)">
+                                <path d="M0,19.9850704 C0,31.0228169 8.88503497,39.9704225 19.8453147,39.9704225 L19.8453147,39.9704225 C30.8058741,39.9704225 39.6909091,31.0228169 39.6909091,19.9850704 L39.6909091,19.9850704 C39.6909091,8.94760563 30.8058741,-9.4587449e-11 19.8453147,-9.4587449e-11 L19.8453147,-9.4587449e-11 C8.88503497,-9.4587449e-11 0,8.94760563 0,19.9850704" id="Fill-1" fill="#FFE4FF" transform="translate(19.845455, 19.985211) rotate(-180.000000) translate(-19.845455, -19.985211) "></path>
+                                <path d="M19.9999084,7 L20.3067706,7.00355041 C27.3448576,7.16657021 33,12.922814 33,19.9999084 L33,19.9999084 L32.9964496,20.3067706 C32.8334297,27.3448576 27.0771834,33 19.9999084,33 L19.9999084,33 L19.6930539,32.9964496 C12.6551424,32.8334297 7,27.0771834 7,19.9999084 C7,12.8202474 12.8202474,7 19.9999084,7 L19.9999084,7 Z M19.9999295,10 C14.4771134,10 10,14.4771134 10,19.9999295 C10,25.4292772 14.326633,29.847933 19.7200263,29.9961582 L19.9999295,30 C25.4292772,30 29.847933,25.673367 29.9961582,20.2798398 L30,19.9999295 C30,14.5707204 25.673367,10.152067 20.2798398,10.0038418 L19.9999295,10 Z" id="Combined-Shape-Copy-29" fill="url(#linearGradient-1)" transform="translate(20.000000, 20.000000) rotate(-180.000000) translate(-20.000000, -20.000000) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

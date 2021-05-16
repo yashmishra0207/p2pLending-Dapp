@@ -22,10 +22,10 @@ const titles = [
 ];
 
 const details = [
-  "Grow is one of the best peer-to-peer lending platform in India which provides investors an opportunity to invest as per their preference that may earn up to 30% returns",
-  "We provide “Free” collection and legal recovery support for all loans lent on our platform. We have a well-defined process in place to ensure a hassle-free experience for investors.",
-  "Each loan project undergoes through a very stringent credit analysis including CIBIL check and physical verification so that diverse yet robust set of loan projects are listed.",
-  "At Grow, we have put in place one of the highest data security and safety standards to keep your data protected and confidential at all times.",
+  "Borrowers can get P2P loans at attractive interest rates as we go beyond CIBIL and assess their profile based on 40+ parameters using our proprietary credit score model.",
+  "Grow provides a seamless user experience in terms of ease of transaction, ability to view detailed account statements, transaction analysis, and many more features.",
+  "At Grow, the Borrowers can simply prepay their loans at their own convenience without any charges whatsoever and as many times as they wish.",
+  "We have a large pool of investors who are looking to invest in individual projects approved by Grow. Once your loan project is listed on Gate, it gets funded within a few days.",
 ];
 
 const WhyBorrow = () => {

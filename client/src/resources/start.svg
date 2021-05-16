@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="158px" height="146px" viewBox="0 0 158 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon - Loans Start at 1000</title>
+    <defs>
+        <linearGradient x1="91.0704968%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#382BC5" offset="0%"></stop>
+            <stop stop-color="#FF3CAC" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="54.7619048" cy="63.5238095" r="54.7619048"></circle>
+        <linearGradient x1="-40.9129792%" y1="62.3173103%" x2="93.325309%" y2="40.5060308%" id="linearGradient-4">
+            <stop stop-color="#4F1DFF" offset="0%"></stop>
+            <stop stop-color="#B980FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="0" y="0" width="113.357143" height="56.6785714" rx="4.38095238"></rect>
+        <linearGradient x1="4.58620594%" y1="228.67513%" x2="59.9719728%" y2="-66.9021267%" id="linearGradient-7">
+            <stop stop-color="#DF84FF" offset="0%"></stop>
+            <stop stop-color="#FFB7FF" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-8" cx="100.761905" cy="13.539881" rx="6.29761905" ry="7.2422619"></ellipse>
+        <filter x="-4.0%" y="-3.5%" width="115.9%" height="113.8%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-10" cx="12.5952381" cy="43.1386905" rx="6.29761905" ry="7.2422619"></ellipse>
+        <filter x="-4.0%" y="-3.5%" width="115.9%" height="113.8%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="3.34629586%" y1="228.67513%" x2="60.2442326%" y2="-66.9021267%" id="linearGradient-12">
+            <stop stop-color="#DF84FF" offset="0%"></stop>
+            <stop stop-color="#FFB7FF" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-13" cx="56.6785714" cy="28.6541667" rx="16.3738095" ry="18.5779762"></ellipse>
+        <filter x="-1.5%" y="-1.3%" width="106.1%" height="105.4%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="113.357143" height="56.6785714" rx="4.38095238"></rect>
+        <ellipse id="path-17" cx="100.761905" cy="13.539881" rx="6.29761905" ry="7.2422619"></ellipse>
+        <filter x="-4.0%" y="-3.5%" width="115.9%" height="113.8%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-19" cx="12.5952381" cy="43.1386905" rx="6.29761905" ry="7.2422619"></ellipse>
+        <filter x="-4.0%" y="-3.5%" width="115.9%" height="113.8%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-21" cx="56.6785714" cy="28.6541667" rx="16.3738095" ry="18.5779762"></ellipse>
+        <filter x="-1.5%" y="-1.3%" width="106.1%" height="105.4%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-23" x="0" y="0" width="113.357143" height="56.6785714" rx="4.38095238"></rect>
+        <ellipse id="path-25" cx="100.761905" cy="13.539881" rx="6.29761905" ry="7.2422619"></ellipse>
+        <filter x="-4.0%" y="-3.5%" width="115.9%" height="113.8%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-27" cx="12.5952381" cy="43.1386905" rx="6.29761905" ry="7.2422619"></ellipse>
+        <filter x="-4.0%" y="-3.5%" width="115.9%" height="113.8%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-29" cx="56.6785714" cy="28.6541667" rx="16.3738095" ry="18.5779762"></ellipse>
+        <filter x="-1.5%" y="-1.3%" width="106.1%" height="105.4%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="12.9653057%" y1="54.9553419%" x2="88.6725004%" y2="49.9999572%" id="linearGradient-31">
+            <stop stop-color="#DF84FF" offset="0%"></stop>
+            <stop stop-color="#FFB7FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M12.047619,8.21428571 C12.047619,10.3315952 10.3294407,12.047619 8.2134055,12.047619 C6.09560986,12.047619 4.38095238,10.3315952 4.38095238,8.21428571 C4.38095238,6.09873628 6.09560986,4.38095238 8.2134055,4.38095238 C10.3294407,4.38095238 12.047619,6.09873628 12.047619,8.21428571" id="path-32"></path>
+        <filter x="-13.0%" y="-13.0%" width="152.2%" height="126.1%" filterUnits="objectBoundingBox" id="filter-33">
+            <feOffset dx="2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Celsius-Key-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Celsius---Borrow---Page---Desktop---1" transform="translate(-142.000000, -8256.000000)">
+            <g id="Section" transform="translate(172.000000, 8270.000000)">
+                <g id="Item">
+                    <g id="Icon---Loans-Start-at-1000">
+                        <g id="Bg" transform="translate(0.000000, 2.190476)">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Mask-Copy-28" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                        </g>
+                        <g id="Bg-Coins">
+                            <path d="M-0.547619048,62.3190476 L86.5238095,62.3190476 C91.0604343,62.3190476 94.7380952,65.9967086 94.7380952,70.5333333 L94.7380952,111.604762 C94.7380952,116.141387 91.0604343,119.819048 86.5238095,119.819048 L-0.547619048,119.819048 L-0.547619048,119.819048 L-0.547619048,62.3190476 Z" id="Rectangle" fill="url(#linearGradient-4)"></path>
+                            <g id="Stack" transform="translate(48.946076, 59.250185) rotate(-30.000000) translate(-48.946076, -59.250185) translate(-14.553924, 12.250185)">
+                                <g id="Dollar" transform="translate(63.333202, 47.141303) rotate(-20.000000) translate(-63.333202, -47.141303) translate(6.333202, 18.641303)">
+                                    <mask id="mask-6" fill="white">
+                                        <use xlink:href="#path-5"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#FFE4FF" xlink:href="#path-5"></use>
+                                    <g id="Oval" mask="url(#mask-6)">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                                        <use fill="url(#linearGradient-7)" fill-rule="evenodd" xlink:href="#path-8"></use>
+                                    </g>
+                                    <g id="Oval" mask="url(#mask-6)">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                                        <use fill="url(#linearGradient-7)" fill-rule="evenodd" xlink:href="#path-10"></use>
+                                    </g>
+                                    <g id="Oval" mask="url(#mask-6)">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                                        <use fill="url(#linearGradient-12)" fill-rule="evenodd" xlink:href="#path-13"></use>
+                                    </g>
+                                </g>
+                                <g id="Dollar" transform="translate(63.320644, 50.351483) rotate(-10.000000) translate(-63.320644, -50.351483) translate(6.320644, 21.851483)">
+                                    <mask id="mask-16" fill="white">
+                                        <use xlink:href="#path-15"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#F5DBF5" xlink:href="#path-15"></use>
+                                    <g id="Oval" mask="url(#mask-16)">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                                        <use fill="url(#linearGradient-7)" fill-rule="evenodd" xlink:href="#path-17"></use>
+                                    </g>
+                                    <g id="Oval" mask="url(#mask-16)">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                                        <use fill="url(#linearGradient-7)" fill-rule="evenodd" xlink:href="#path-19"></use>
+                                    </g>
+                                    <g id="Oval" mask="url(#mask-16)">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                                        <use fill="url(#linearGradient-12)" fill-rule="evenodd" xlink:href="#path-21"></use>
+                                    </g>
+                                </g>
+                                <g id="Dollar" transform="translate(6.297619, 25.058550)">
+                                    <mask id="mask-24" fill="white">
+                                        <use xlink:href="#path-23"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#FFE4FF" xlink:href="#path-23"></use>
+                                    <g id="Oval" mask="url(#mask-24)">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                                        <use fill="url(#linearGradient-7)" fill-rule="evenodd" xlink:href="#path-25"></use>
+                                    </g>
+                                    <g id="Oval" mask="url(#mask-24)">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                                        <use fill="url(#linearGradient-7)" fill-rule="evenodd" xlink:href="#path-27"></use>
+                                    </g>
+                                    <g id="Oval" mask="url(#mask-24)">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                                        <use fill="url(#linearGradient-12)" fill-rule="evenodd" xlink:href="#path-29"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Wallet" transform="translate(0.000000, 10.952381)">
+                            <g transform="translate(-5.476190, 57.938095)">
+                                <g fill="url(#linearGradient-31)" id="Rectangle">
+                                    <rect x="0" y="0" width="92" height="56.952381" rx="5.47619048"></rect>
+                                </g>
+                                <g id="Clasp" transform="translate(64.783333, 20.316667)">
+                                    <path d="M2.57380952,0.0547619048 L27.2166667,0.0547619048 L27.2166667,0.0547619048 L27.2166667,16.4833333 L2.57380952,16.4833333 C1.36404293,16.4833333 0.383333333,15.5026237 0.383333333,14.2928571 L0.383333333,2.2452381 C0.383333333,1.0354715 1.36404293,0.0547619048 2.57380952,0.0547619048 Z" id="Rectangle" fill="#FFFFFF" opacity="0.200000003"></path>
+                                    <g id="Fill-19">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-33)" xlink:href="#path-32"></use>
+                                        <use fill="#FFE4FF" fill-rule="evenodd" xlink:href="#path-32"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

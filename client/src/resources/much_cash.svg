@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="145px" height="133px" viewBox="0 0 145 133" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon - Decide How Much Cash</title>
+    <defs>
+        <linearGradient x1="91.0704968%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#382BC5" offset="0%"></stop>
+            <stop stop-color="#FF3CAC" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="103.5" height="51.75" rx="4"></rect>
+        <linearGradient x1="4.58620594%" y1="228.67513%" x2="59.9719728%" y2="-66.9021267%" id="linearGradient-4">
+            <stop stop-color="#DF84FF" offset="0%"></stop>
+            <stop stop-color="#FFB7FF" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-5" cx="92" cy="12.3625" rx="5.75" ry="6.6125"></ellipse>
+        <filter x="-4.3%" y="-3.8%" width="117.4%" height="115.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-7" cx="11.5" cy="39.3875" rx="5.75" ry="6.6125"></ellipse>
+        <filter x="-4.3%" y="-3.8%" width="117.4%" height="115.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="3.34629586%" y1="228.67513%" x2="60.2442326%" y2="-66.9021267%" id="linearGradient-9">
+            <stop stop-color="#DF84FF" offset="0%"></stop>
+            <stop stop-color="#FFB7FF" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-10" cx="51.75" cy="26.1625" rx="14.95" ry="16.9625"></ellipse>
+        <filter x="-1.7%" y="-1.5%" width="106.7%" height="105.9%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-12" x="0" y="0" width="103.5" height="51.75" rx="4"></rect>
+        <ellipse id="path-14" cx="92" cy="12.3625" rx="5.75" ry="6.6125"></ellipse>
+        <filter x="-4.3%" y="-3.8%" width="117.4%" height="115.1%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-16" cx="11.5" cy="39.3875" rx="5.75" ry="6.6125"></ellipse>
+        <filter x="-4.3%" y="-3.8%" width="117.4%" height="115.1%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-18" cx="51.75" cy="26.1625" rx="14.95" ry="16.9625"></ellipse>
+        <filter x="-1.7%" y="-1.5%" width="106.7%" height="105.9%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-20" x="0" y="0" width="103.5" height="51.75" rx="4"></rect>
+        <ellipse id="path-22" cx="92" cy="12.3625" rx="5.75" ry="6.6125"></ellipse>
+        <filter x="-4.3%" y="-3.8%" width="117.4%" height="115.1%" filterUnits="objectBoundingBox" id="filter-23">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-24" cx="11.5" cy="39.3875" rx="5.75" ry="6.6125"></ellipse>
+        <filter x="-4.3%" y="-3.8%" width="117.4%" height="115.1%" filterUnits="objectBoundingBox" id="filter-25">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-26" cx="51.75" cy="26.1625" rx="14.95" ry="16.9625"></ellipse>
+        <filter x="-1.7%" y="-1.5%" width="106.7%" height="105.9%" filterUnits="objectBoundingBox" id="filter-27">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Celsius-Key-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Celsius---Borrow---Page---Desktop---1" transform="translate(-271.000000, -1733.000000)">
+            <g id="Section" transform="translate(-380.000000, -271.000000)">
+                <g id="Points" transform="translate(556.000000, 1991.000000)">
+                    <g id="Item">
+                        <g id="Icon---Decide-How-Much-Cash" transform="translate(118.000000, 23.000000)">
+                            <circle id="Mask" fill="url(#linearGradient-1)" cx="50" cy="57" r="50"></circle>
+                            <g id="Money">
+                                <g id="Stack" transform="translate(49.355143, 56.432113) rotate(-30.000000) translate(-49.355143, -56.432113) translate(-8.644857, 13.432113)">
+                                    <g id="Dollar" transform="translate(57.777676, 43.054684) rotate(-20.000000) translate(-57.777676, -43.054684) translate(5.777676, 17.054684)">
+                                        <mask id="mask-3" fill="white">
+                                            <use xlink:href="#path-2"></use>
+                                        </mask>
+                                        <use id="Mask" fill="#FFE4FF" xlink:href="#path-2"></use>
+                                        <g id="Oval" mask="url(#mask-3)">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                            <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                        </g>
+                                        <g id="Oval" mask="url(#mask-3)">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                            <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                        </g>
+                                        <g id="Oval" mask="url(#mask-3)">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                                            <use fill="url(#linearGradient-9)" fill-rule="evenodd" xlink:href="#path-10"></use>
+                                        </g>
+                                    </g>
+                                    <g id="Dollar" transform="translate(57.767908, 45.977416) rotate(-10.000000) translate(-57.767908, -45.977416) translate(5.767908, 19.977416)">
+                                        <mask id="mask-13" fill="white">
+                                            <use xlink:href="#path-12"></use>
+                                        </mask>
+                                        <use id="Mask" fill="#F5DBF5" xlink:href="#path-12"></use>
+                                        <g id="Oval" mask="url(#mask-13)">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+                                            <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-14"></use>
+                                        </g>
+                                        <g id="Oval" mask="url(#mask-13)">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
+                                            <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-16"></use>
+                                        </g>
+                                        <g id="Oval" mask="url(#mask-13)">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
+                                            <use fill="url(#linearGradient-9)" fill-rule="evenodd" xlink:href="#path-18"></use>
+                                        </g>
+                                    </g>
+                                    <g id="Dollar" transform="translate(5.750000, 22.897727)">
+                                        <mask id="mask-21" fill="white">
+                                            <use xlink:href="#path-20"></use>
+                                        </mask>
+                                        <use id="Mask" fill="#FFE4FF" xlink:href="#path-20"></use>
+                                        <g id="Oval" mask="url(#mask-21)">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-23)" xlink:href="#path-22"></use>
+                                            <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-22"></use>
+                                        </g>
+                                        <g id="Oval" mask="url(#mask-21)">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-25)" xlink:href="#path-24"></use>
+                                            <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-24"></use>
+                                        </g>
+                                        <g id="Oval" mask="url(#mask-21)">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-27)" xlink:href="#path-26"></use>
+                                            <use fill="url(#linearGradient-9)" fill-rule="evenodd" xlink:href="#path-26"></use>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

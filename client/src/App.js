@@ -6,6 +6,7 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 import { makeStyles } from "@material-ui/core/styles";
 import Auth from "./components/Auth";
 import Main from "./components/Main";
+import AppProvider from "./store/AppProvider";
 
 const useStyles = makeStyles((theme) => ({}));
 
@@ -42,10 +43,12 @@ function App() {
   return (
     <BrowserRouter>
       <div className={classes.root}>
-        <Switch>
-          <Route path="/auth" component={Auth} />
-          <Route path="/" component={Main} />
-        </Switch>
+        <AppProvider>
+          <Switch>
+            <Route path="/auth" component={Auth} />
+            <Route path="/" component={Main} />
+          </Switch>
+        </AppProvider>
       </div>
     </BrowserRouter>
   );
