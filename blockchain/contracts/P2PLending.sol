@@ -55,13 +55,13 @@ contract P2PLending
 
     }
 
-    function P2PLending()
+    constructor()
     {
         numLoans = 1;
         numApplications = 1;
     }
     
-    function createUser(string name)
+    function createUser(string memory name) public
     {
         User user;
         user.name = name;
@@ -79,24 +79,27 @@ contract P2PLending
         return balances[msg.sender];
     }
     
-    function deposit(uint amount) 
+    function deposit(uint amount) public
     {
         balances[msg.sender] += amount;
     }
     
-    function withdraw(uint amount) returns (uint) {
+    function withdraw(uint amount) public returns (uint) 
+    {
         require(amount <= balances[msg.sender]);
         balances[msg.sender] -= amount;
         return amount;
     }
     
-    function transfer(address giver, address taker, uint amount){
+    function transfer(address giver, address taker, uint amount) public
+    {
         require(balances[giver] >= amount);
         balances[giver] -= amount;
         balances[taker] += amount;
     }
-    function createApplication(uint duration, uint interest_rate, uint credit_amount, string otherData){
-
+    
+    function createApplication(uint duration, uint interest_rate, uint credit_amount, string memory otherData) public
+    {
         applications[numApplications] = LoanApplication(true, numApplications, msg.sender, duration, credit_amount, interest_rate, otherData);
         numApplications += 1;
         hasOngoingApplication[msg.sender] = true;
