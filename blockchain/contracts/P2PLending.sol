@@ -1,4 +1,4 @@
-pragma solidity ^0.4.0;
+pragma solidity >=0.4.22;
 
 contract P2PLending 
 {
@@ -57,7 +57,7 @@ contract P2PLending
 
     }
 
-    constructor()
+    constructor() public
     {
         numLoans = 1;
         numApplications = 1;
@@ -65,7 +65,7 @@ contract P2PLending
     
     function createUser(string memory name) public
     {
-        User user;
+        User memory user;
         user.name = name;
         user.user_public_key = msg.sender;
         user.EXISTS = true;
@@ -130,7 +130,7 @@ contract P2PLending
                     break;
                 }
         }
-        Loan loan = loans[id_];
+        Loan memory loan = loans[id_];
         
         require(loan.openLoan == true);
 
@@ -175,19 +175,19 @@ contract P2PLending
         }
     }
     
-    function ifApplicationOpen(uint index) returns (bool) public
+    function ifApplicationOpen(uint index) public returns (bool) 
     {
-        LoanApplication app = applications[index];
+        LoanApplication memory app = applications[index];
         if(app.openApp) return true; else return false;
     }
     
-    function ifLoanOpen(uint index) returns (bool) public
+    function ifLoanOpen(uint index) public returns (bool) 
     {
-        Loan loan = loans[index];
+        Loan memory loan = loans[index];
         if (loan.openLoan == true) return true; else return false;
     }
     
-    function getApplicationData(uint index) returns (uint[], address) public
+    function getApplicationData(uint index) public returns (uint[] memory, address) 
     {
         uint[] memory numericalData = new uint[](4);
         numericalData[0] = index;
@@ -200,7 +200,7 @@ contract P2PLending
         // numericalData format = [index, duration, amount, interestrate]
     }
     
-    function getLoanData(uint index) returns (uint[], address, address) public
+    function getLoanData(uint index) public returns (uint[] memory, address, address) 
     {
         uint[] memory numericalData = new uint[](11);
         numericalData[0] = index;
@@ -219,8 +219,8 @@ contract P2PLending
         // numericalData format = [index, interestrate, duration, p_amnt, o_amnt, paid_amnt, collateral, ltv, starttime, app_index]
     }
     
-    function getNumApplications() returns (uint) public { return numApplications;}
-    function getNumLoans() returns (uint) public { return numLoans;}
-    function isUser(address account) returns (bool) public {return users[account].EXISTS;}
-    function getTime() returns (uint) public {return now;}
+    function getNumApplications() public returns (uint) { return numApplications;}
+    function getNumLoans() public returns (uint) { return numLoans;}
+    function isUser(address account) public returns (bool) {return users[account].EXISTS;}
+    function getTime() public returns (uint) {return now;}
 }    
