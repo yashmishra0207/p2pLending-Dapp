@@ -48,7 +48,7 @@ contract P2PLending
         uint duration;
         uint principal_amount;
         uint original_amount;
-        unit loan_to_value;
+        uint loan_to_value;
         uint collateral;
         uint amount_paid;
         uint startTime;
